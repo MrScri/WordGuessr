@@ -34,6 +34,8 @@ node checker.js
 
 1. ثبّت Node.js من الرابط أعلاه  
 2. انسخ المشروع باستخدام الأمر التالي:  
+
+
    ```bash
+
    git clone https://github.com/MrScri/WordGuessr.git
-   cd URL-Checker
