@@ -29,8 +29,11 @@ A simple Node.js tool to check the availability of random URLs generated with a 
 3. Install dependencies
 4. Run the script
 
+npm install
+node checker.js
+
 1. ثبّت Node.js من الرابط أعلاه  
 2. انسخ المشروع باستخدام الأمر التالي:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/URL-Checker.git
+   git clone https://github.com/MrScri/WordGuessr.git
    cd URL-Checker
